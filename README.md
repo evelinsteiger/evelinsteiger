@@ -4,10 +4,10 @@
 
 <h3 align="left">Hi there! I'm Evelin Steiger 👋🏻</h3>
 <img align="right" width="350" alt="banner" src="https://i.pinimg.com/originals/2d/41/ef/2d41ef4c38646cd6a053d7f12a010453.gif" />
-<h4 align="left">A passionate frontend developer from Rio de Janeiro, Brazil</h4>
+<h4 align="left">A brazilian girl and front-end programmer since 2017.</h4>
 
 - 🌱 I’m currently working on React and ReactNative projects.
-- 🔭 I’m currently studying a Bachelor's Degree in Information Systems at the Instituto Federal Fluminense..
+- 🔭 I’m currently studying a Bachelor's Degree in Information Systems.
 
 
 <h5 align="left">Tech stack:</h5>
