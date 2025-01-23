@@ -3,7 +3,7 @@
 -->
 
 <h3 align="left">Hi there! I'm Evelin Steiger 👋🏻</h3>
-<img align="right" alt="banner" src="https://i.pinimg.com/originals/2d/41/ef/2d41ef4c38646cd6a053d7f12a010453.gif" />
+<img align="right" width="350" alt="banner" src="https://i.pinimg.com/originals/2d/41/ef/2d41ef4c38646cd6a053d7f12a010453.gif" />
 <h4 align="left">A passionate frontend developer from Rio de Janeiro, Brazil</h4>
 
 - 🌱 I’m currently working on React and ReactNative projects.
